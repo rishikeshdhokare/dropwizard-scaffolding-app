@@ -1,0 +1,15 @@
+appName:  Dropwizard Scaffolding App
+swaggerBundleConfiguration:
+  resourcePackage: sample
+server:
+  rootPath: /*
+  applicationConnectors:
+    - type: http
+      port: 8000
+  adminConnectors:
+    - type: http
+      port: 8100
+logging:
+  level:  WARN
+  loggers:
+    cci:  INFO
