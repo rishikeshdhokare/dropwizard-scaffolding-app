@@ -1,3 +1,1 @@
-###Dropwizard Scaffolding Application
-
-
+Dropwizard Scaffolding Application
